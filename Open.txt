@@ -1,0 +1,1 @@
+I am opening and writing a file.
